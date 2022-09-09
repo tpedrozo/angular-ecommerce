@@ -1,0 +1,18 @@
+<div class="w-full max-w-6xl mx-auto py-20">
+  <h5 class="text-gray-700 text-3xl text-center w-full font-bold">Products</h5>
+  <h6 class="text-gray-500 text-sm text-center mt-1">Order it for you or for your beloved ones </h6>
+
+  <div class="w-full max-w-6xl mx-auto mt-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+    <div 
+      *ngFor="let p of productList" 
+      class="w-full max-w-[255px] mx-auto justify-center shadow-md cursor-pointer hover:shadow-xl transition-all ease-in-out duration-150">
+      <div class="bg-[#f7f8fa] py-4">
+        <img [src]="p.productImgUrl" alt="candle pink">
+      </div>
+      <div class="bg-white p-3 w-full">
+        <h5 class="font-bold">{{p.productName}}</h5>
+        <h6 class="text-green-500 text-end">R$ {{p.productPrice}}</h6>
+      </div>
+    </div>
+  </div>
+</div>

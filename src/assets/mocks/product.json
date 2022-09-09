@@ -1,0 +1,64 @@
+{
+  "Product": {
+    "errors": [],
+    "success": true,
+    "result": [
+      {
+        "productSlug":"x323vwrfwfsfd",
+        "productName": "Spiced Mint",
+        "productDescription": "Spiced Mint description",
+        "productPrice": "1900",
+        "productImgUrl": "../../../../assets/img/candle-green.png"
+      },
+      {
+        "productSlug":"x323vwrfwfsf3",
+        "productName": "Sweet Straweberry",
+        "productDescription": "Sweet Straweberry description",
+        "productPrice": "1900",
+        "productImgUrl": "../../../../assets/img/candle-pink.png"
+      },
+      {
+        "productSlug":"x323vwrfwfsfd",
+        "productName": "Cool Blueberries",
+        "productDescription": "Cool Blueberries description",
+        "productPrice": "1900",
+        "productImgUrl": "../../../../assets/img/candle-purple.png"
+      },
+      {
+        "productSlug":"x323vwrfwfsfd",
+        "productName": "Juicy Lemon",
+        "productDescription": "Juicy Lemon",
+        "productPrice": "1900",
+        "productImgUrl": "../../../../assets/img/candle-yellow.png"
+      },
+      {
+        "productSlug":"x323vwrfwfsfd",
+        "productName": "Juicy Orange",
+        "productDescription": "Juicy Orange",
+        "productPrice": "1900",
+        "productImgUrl": "../../../../assets/img/candle-bedge.png"
+      },
+      {
+        "productSlug":"x323vwrfwfsfd",
+        "productName": "Fragrant Cinnamon",
+        "productDescription": "Fragrant Cinnamon",
+        "productPrice": "1900",
+        "productImgUrl": "../../../../assets/img/candle-brown.png"
+      },
+      {
+        "productSlug":"x323vwrfwfsfd",
+        "productName": "Summer Cherries",
+        "productDescription": "Summer Cherries",
+        "productPrice": "1900",
+        "productImgUrl": "../../../../assets/img/candle-red.png"
+      },
+      {
+        "productSlug":"x323vwrfwfsfd",
+        "productName": "Clean Lavander",
+        "productDescription": "Clean Lavander",
+        "productPrice": "1900",
+        "productImgUrl": "../../../../assets/img/candle-violet.png"
+      }
+    ]
+  }
+}
